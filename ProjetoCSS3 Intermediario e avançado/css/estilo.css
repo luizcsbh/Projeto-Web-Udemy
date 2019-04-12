@@ -71,7 +71,7 @@ h2#amarelo{
 	color: yellow;
 }
 /*************** Barra de navegação vertical *************/
-
+/*
 ul{
 	
 	list-style-type: none;
@@ -81,7 +81,7 @@ ul{
 }
 
 li{
-	padding: 20px;
-	border: 1px solid red;
-	background: url(../imagens/seta.png)
+	padding: 5px 20px;
+	background: url(../imagens/seta.png) no-repeat left center;
 }
+*/
