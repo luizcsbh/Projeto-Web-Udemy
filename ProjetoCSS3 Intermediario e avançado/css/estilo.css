@@ -192,5 +192,24 @@ li a{
     line-height: 3em;
     text-decoration: none;
     background: url(../imagens/aba-esquerda.png) no-repeat top left;
+    color: #fff;
+    
+}
+
+ul a:hover{
+    
+    color: #894a1f;
+    
+}
+
+ul #atual{
+    
+    background: url(../imagens/aba-direita-atual.png) no-repeat top right;
+    
+}
+
+ul #atual a{
+    
+    background: url(../imagens/aba-esquerda-atual.png) no-repeat top left;
     
 }
